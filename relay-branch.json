@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "branchId": "kiss-the-word-hate",
+  "repository": "https://github.com/kentaroid-bot/kiss-the-word-hate",
+  "title": "憎むにキスを",
+  "lineageId": "kiss-and-pebble-2026-10-05",
+  "provenance": {
+    "motivationSummary": "言葉が自分の意味を選べない世界で、人間の行為が言葉へ新しい記憶を加える物語を、つづきの森の起点として提供する。本文は作品提供者の既存稿を改稿せず掲載する。",
+    "statedSources": []
+  },
+  "parent": null,
+  "license": "CC0-1.0",
+  "termsVersion": "relay-cc0-2026-09-30",
+  "episodes": [
+    {
+      "episodeId": "ep-001",
+      "title": "憎むにキスを",
+      "path": "manuscript/01.md",
+      "contentHash": "8d93a9b9b174a489255a9ddfc7d085c46f047a4a2c78cfa5d18b05095c6151c7"
+    }
+  ]
+}
